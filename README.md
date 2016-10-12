@@ -1,4 +1,4 @@
-# Elasticmon
+# elasticprtg
 Simple API to PRTG sensor script for Elasticsearch cluster health data
 
 This script uses the data returned by Elasticsearch when you do a call to http://{ESNODEIP}:9200/_cluster/health and turns each key/value pair into a channel inside a PRTG sensor
